@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>primeiro projeto-GIT</title>
+    <style>
+        *{
+            margin: auto;
+            padding: 50%;
+            border-radius: 10px;
+        }
+    body{
+        background: -o-linear-gradient(blue,gray );
+        align-items: center;
+    }    
+    </style>
+</head>
+<header><h1> ZZL story</h1></header>
+<body>
+    <h2>nossa loja tem como comprometimento se adaptar a todos os estilos e personalidades.</h2>
+
+</body>
+</html>
